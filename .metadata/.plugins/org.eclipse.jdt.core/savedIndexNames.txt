@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\DELL\Desktop\SpringBoot Abacus Adv\Git Upload File\.metadata\.plugins\org.eclipse.jdt.core
+2150396020.index
+1865797976.index
+421863886.index
+1172177972.index
+1095333943.index
